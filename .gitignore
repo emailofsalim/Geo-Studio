@@ -1,0 +1,17 @@
+# OS / system junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Node (only if you ever add a build step)
+node_modules/
+npm-debug.log*
+
+# Logs & temp
+*.log
+*.tmp
