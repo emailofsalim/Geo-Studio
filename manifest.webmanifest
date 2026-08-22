@@ -1,0 +1,24 @@
+{
+  "id": "./",
+  "name": "Geo Studio",
+  "short_name": "Geo Studio",
+  "description": "A 100% offline, single-file geomatics toolkit by Md Salim Ansari: CSV/XLSX/KML/KMZ/DXF/GeoJSON/GPX/WKT/Shapefile conversion, coordinate tools, survey calculator, borehole/cadastral/boundary-offset mapping, and an interactive offline map. Your data never leaves your device.",
+  "lang": "en",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0f3255",
+  "theme_color": "#12395C",
+  "categories": ["productivity", "utilities", "business"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "icons/favicon-64.png", "sizes": "64x64", "type": "image/png", "purpose": "any" },
+    { "src": "icons/favicon-32.png", "sizes": "32x32", "type": "image/png", "purpose": "any" }
+  ]
+}
